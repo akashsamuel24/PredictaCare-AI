@@ -1,0 +1,19 @@
+predictacare-demo/
+├─ package.json
+├─ README.md
+├─ server/
+│  └─ server.js
+└─ client/
+   ├─ public/
+   │  └─ index.html
+   └─ src/
+      ├─ index.js
+      ├─ App.js
+      ├─ styles.css
+      └─ components/
+         ├─ Header.js
+         ├─ Dashboard.js
+         ├─ SymptomChecker.js
+         ├─ ResultsCard.js
+         ├─ QuizModule.js
+         └─ Booking.js
